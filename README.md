@@ -16,11 +16,11 @@
 ![Linux]()
 ![Linux](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ilyabasharov&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilyabasharov&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Genndoso&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genndoso&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
 
 
 
     
-[![Profile last updated](https://img.shields.io/github/last-commit/Ilyabasharov/Ilyabasharov/main?label=Last%20updated&style=flat)](https://github.com/Ilyabasharov/Ilyabasharov/commits)
-![pv](https://pageview.vercel.app/?github_user=Ilyabasharov)
+[![Profile last updated](https://img.shields.io/github/last-commit/Genndoso/MaksimilianPavlov/main?label=Last%20updated&style=flat)](https://github.com/Genndoso/MaksimilianPavlov/commits)
+![pv](https://pageview.vercel.app/?github_user=Genndoso)
