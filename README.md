@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there! 👋
-- 🔭 I have M.Sc degree at and [Skoltech](https://www.skoltech.ru/en/)
+- 🔭 I have M.Sc degree at [Skoltech](https://www.skoltech.ru/en/)
 - 🌱 I’m conducting research in applying machine learning in petroleum industry
 
 ### My stack! :dango:
