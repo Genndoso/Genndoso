@@ -1,6 +1,8 @@
 <p align="center">
     <a href="https://www.researchgate.net/profile/Maximilian-Pavlov-2" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-   
+    
+<a href="https://www.linkedin.com/in/maximilian-pavlov-074124160/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
 </p>
 
 ### Hi there! 👋
