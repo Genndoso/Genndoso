@@ -6,7 +6,7 @@
 
 ### Hi there! 👋
 - 🔭 I have M.Sc degree at [Skoltech](https://www.skoltech.ru/en/)
-- 🌱 I’m conducting research in applying machine learning in petroleum industry
+- 🌱 I’m conducting research in applied machine learning in petroleum industry
 
 ### My stack! :dango:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
