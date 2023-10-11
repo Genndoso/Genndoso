@@ -20,6 +20,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Pyspark]([https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/pyspark-blue
+)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Genndoso&show_icons=true&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genndoso&layout=compact&theme=github_dark" alt="logo" height="160" align="left" style="margin: 6px; margin-bottom: 20px;"  />
