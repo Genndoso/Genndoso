@@ -31,4 +31,3 @@
 
     
 [![Profile last updated](https://img.shields.io/github/last-commit/Genndoso/Genndoso/main?label=Last%20updated&style=flat)](https://github.com/Genndoso/Genndoso/commits)
-![pv](https://pageview.vercel.app/?github_user=Genndoso)
